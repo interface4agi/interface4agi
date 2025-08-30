@@ -1,4 +1,4 @@
-# 👋 yo, i’m [Your Name]
+# 👋 yo, i’m sahil
 
 i like to build stuff
 
@@ -22,7 +22,7 @@ ik, no “wall of green” here 👀
 that’s cuz at my last gig ([**Cohesity**](https://www.cohesity.com/)) we used **[gerrit](https://www.gerritcodereview.com/)** instead of github.  
 so yeah, my commits lived there.  
 
-but now? sonatic is in the open → expect the graph to glow up 🌱  
+but now? expect the graph to glow up 🌱  
 
 ---
 
