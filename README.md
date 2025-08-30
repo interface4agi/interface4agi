@@ -4,16 +4,6 @@ i like to build stuff
 
 working on [**Sonatic**](https://www.sonatic.com) → a new interface to interact with computers
 
-
----
-
-## 🛠 stack i vibe with
-
-- 🐍 python everywhere  
-- 🔮 llms for reasoning + plan gen  
-- 📜 strict schemas (planner ↔ executor contracts)  
-- 🔌 integrations: gmail, gcal, slack, notion, etc.  
-
 ---
 
 ## 📉 about my github graph
