@@ -30,7 +30,7 @@ but now? expect the graph to glow up 🌱
 - twitter: [@interface4agi](https://x.com/interface4AGI)  
 - linkedin: [Sahil Dhull](https://www.linkedin.com/in/sahildhull-25/)  
 - email: sdhull2512@gmail.com
-- webpage: interface4agi.com
+- webpage: [interface4agi.com](https://www.interface4agi.com)
 
 ---
 
