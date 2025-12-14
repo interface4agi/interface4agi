@@ -2,8 +2,6 @@
 
 i like to build stuff
 
-working on [**Sonatic**](https://www.sonatic.com) → a new interface to interact with computers
-
 ---
 
 ## 📉 about my github graph
