@@ -7,8 +7,9 @@ i like to build stuff
 ## 📉 about my github graph
 
 ik, no “wall of green” here 👀  
-that’s cuz at my last gig ([**Cohesity**](https://www.cohesity.com/)) we used **[gerrit](https://www.gerritcodereview.com/)** instead of github.  
-so yeah, my commits lived there.  
+that's cuz at my last gig, Sonatic - i used the pvt github repos of the org, and github removes the contributions after you leave the org
+and before that ([**Cohesity**](https://www.cohesity.com/)) we used **[gerrit](https://www.gerritcodereview.com/)** instead of github.  
+so yeah, my commits lived there. 
 
 but now? expect the graph to glow up 🌱  
 
