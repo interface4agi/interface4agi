@@ -17,10 +17,14 @@ but now? expect the graph to glow up 🌱
 
 ## 🛣 my journey (so far)
 
+- built proactive and promptless AI agents at sonatic
+- built large scale distributed systems @ cohesity
+- cs major from iitk (class of 2020)
+  - chilled and built a formula student car till sophomore year
+  - built some cool apps, worked on IoT, self driving projects
 - cracked some competitive exams in middle & high school (NTSE, KVPY, JEE Mains & Adv)
-- chilled and built a formula student car till sophomore year @ IITK
-- scaled distributed systems @ cohesity
-- 🚀 now all-in on sonatic  
+
+  
 
 ---
 
@@ -29,8 +33,5 @@ but now? expect the graph to glow up 🌱
 - twitter: [@interface4agi](https://x.com/interface4AGI)  
 - linkedin: [Sahil Dhull](https://www.linkedin.com/in/sahildhull-25/)  
 - email: sdhull2512@gmail.com
-- webpage: [interface4agi.com](https://www.interface4agi.com)
-
----
-
-✨ this is my little corner of the internet. poke around ✨
+- website: [sahildhull.com](https://www.sahildhull.com)
+- new startup: [interface4agi.com](https://www.interface4agi.com)
