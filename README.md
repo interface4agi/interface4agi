@@ -2,6 +2,8 @@
 
 i like to build stuff
 
+[Prev Github profile](https://github.com/SahilDhull)
+
 ---
 
 ## 📉 about my github graph
